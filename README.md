@@ -33,6 +33,10 @@ NRC:10067
 ![image](https://user-images.githubusercontent.com/116815201/205787973-75b11a74-9544-4541-89d6-cf7856da2b3a.png)
 ![image](https://user-images.githubusercontent.com/116815201/205788013-996848d5-330a-48d0-83d6-5bdec606830b.png)
 ![image](https://user-images.githubusercontent.com/116815201/205788049-4d581c7c-f229-408b-af8d-e6d8ce328228.png)
+![image](https://user-images.githubusercontent.com/116815201/205915426-bcaee4d3-d62b-4709-9603-f2543a320c92.png)
+![image](https://user-images.githubusercontent.com/116815201/205915494-2b355e22-ebad-4a6a-a387-ab819a419229.png)
+![image](https://user-images.githubusercontent.com/116815201/205915549-e6a43027-5add-4d6e-bf98-e5d4b079e701.png)
+
 
 3.	EXPLICACIÓN DEL PROCEDIMIENTO
 
